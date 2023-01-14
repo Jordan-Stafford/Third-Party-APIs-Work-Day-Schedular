@@ -17,7 +17,7 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Description](#description)
-- [Features](#features)
+- [Media](#media)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [Contact](#contact)
@@ -43,11 +43,14 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Description
+This is the 5th challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have mastered the use of third-party APIs, local/sessional storages, and JavaScript. 
 
-## Features
-//INSERT MEDIA//
+## Media
+![GitHub_5](https://user-images.githubusercontent.com/114362462/212497060-bde88c53-f3b4-43ea-8141-8a107f1266af.png)
+![GitHub_5(1)](https://user-images.githubusercontent.com/114362462/212497063-4d8c7fea-5fc9-4464-b337-27967af65759.png)
 
 ## Installation
+Fork this repo/copy the code onto your machine.
 
 ## Contributor(s)
 [Jordan-Stafford](https://github.com/Jordan-Stafford)
