@@ -43,7 +43,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Description
-This is the 5th challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have mastered the use of third-party APIs, local/sessional storages, and JavaScript. 
+This is the 5th challenge assignment I did during my time in the UT Austin Coding Bootcamp. I have mastered the use of third-party APIs, local/sessional storages, JQuery, and JavaScript. 
 
 ## Media
 ![GitHub_5](https://user-images.githubusercontent.com/114362462/212497060-bde88c53-f3b4-43ea-8141-8a107f1266af.png)
